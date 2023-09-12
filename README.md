@@ -1,7 +1,4 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
-
-# Project-009 : Movie App (RP-09)
+# Project: Movie App
 
 ## Description
 
@@ -201,9 +198,5 @@ sendPasswordResetEmail(auth, email)
 - Step 5: You can use css frameworks like Bootstrap, Semantic UI, Material UI.
 
 - Step 6: Add project gif to your project and README.md file.
-
-## Notes
-
-- You can add additional functionalities to your app.
 
 **<p align="center">&#9786; Happy Coding &#9997;</p>**
